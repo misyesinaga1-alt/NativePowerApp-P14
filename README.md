@@ -56,30 +56,30 @@ eas build --platform android --profile preview
 ### Icon Aplikasi & Splash Screen
 | Icon di Home Screen | Splash Screen |
 |---|---|
-| ![Icon di home screen](screenshots/02-icon-home-screen.jpeg) | ![Splash screen](screenshots/03-splash-screen.jpeg) |
+| ![Icon di home screen](02-icon-home-screen.jpeg) | ![Splash screen](03-splash-screen.jpeg) |
 
 ### Halaman Utama Aplikasi
-![Halaman utama](screenshots/01-halaman-utama.jpeg)
+![Halaman utama](01-halaman-utama.jpeg)
 
 ### Fitur Kamera & Galeri
 Dialog pilihan sumber foto muncul saat tombol "Kamera / Galeri" ditekan:
 
-![Dialog pilih foto](screenshots/04-pilih-foto-dialog.jpeg)
+![Dialog pilih foto](04-pilih-foto-dialog.jpeg)
 
 ### Fitur Lokasi (GPS + Reverse Geocoding)
 Latitude, longitude, dan alamat otomatis terisi setelah menekan "Ambil Lokasi":
 
-![Lokasi GPS](screenshots/05-lokasi-gps.jpeg)
+![Lokasi GPS](05-lokasi-gps.jpeg)
 
 ### Fitur Buka di Google Maps
 Lokasi yang diambil bisa langsung dibuka di Google Maps:
 
-![Google Maps](screenshots/06-google-maps.jpeg)
+![Google Maps](06-google-maps.jpeg)
 
 ### Bukti Proses Build (EAS Dashboard)
 Status build **Finished**, profile `preview`, versi `1.0.0 (1)`:
 
-![EAS Dashboard Finished](screenshots/07-eas-dashboard-finished.png)
+![EAS Dashboard Finished](07-eas-dashboard-finished.png)
 
 ## 🔗 Link Penting
 
