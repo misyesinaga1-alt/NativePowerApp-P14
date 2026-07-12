@@ -103,8 +103,7 @@ Status build **Finished**, profile `preview`, versi `1.0.0 (1)`:
 - **Download APK:** https://expo.dev/accounts/misyesinaga/projects/NativePowerApp/builds/db195376-768a-4188-89ca-b87ed2457fdb
 - **EAS Build Dashboard:** https://expo.dev/accounts/misyesinaga/projects/NativePowerApp/builds/db195376-768a-4188-89ca-b87ed2457fdb
 - **Expo Snack (coba online):** https://snack.expo.dev/@misyesinaga/nativepowerapp_p14
-- **Expo Snack (coba online):** https://snack.expo.dev/@misyesinaga/nativepowerapp_p14
 
 ## 👤 Author
 
-Misye Retno Wulansari Br Sinaga — Mission P13/P14, Native Mobile Development
+Misye Retno Wulansari Br Sinaga — Mission P13/P14, Praktek Pemrograman Mobile (React Native)
