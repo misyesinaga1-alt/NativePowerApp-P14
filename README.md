@@ -17,6 +17,14 @@ App ini adalah **kartu profil digital dengan foto dan lokasi**, fitur utamanya: 
 | 🗺️ Tombol **Buka di Google Maps** | ✅ |
 | 🔐 Permission flow (request izin → cek status → handle penolakan) | ✅ |
 
+## 🍬 Coba Online (Expo Snack)
+
+Mau coba app ini tanpa install APK dulu? Buka lewat Expo Snack:
+
+**[▶️ Buka di Expo Snack](https://snack.expo.dev/@misyesinaga/nativepowerapp_p14)**
+
+> Catatan: fitur kamera & GPS baru berfungsi penuh kalau dites lewat **Expo Go** di HP (scan QR code dari halaman Snack). Preview langsung di browser tidak bisa akses kamera/GPS asli perangkat.
+
 ## 🛠️ Tech Stack
 
 - **React Native** + **Expo** (SDK 54)
@@ -35,6 +43,14 @@ App ini adalah **kartu profil digital dengan foto dan lokasi**, fitur utamanya: 
 4. Tap **Install**, tunggu selesai, lalu buka aplikasinya
 
 > ⏳ **Catatan:** Link APK dari EAS aktif selama 30 hari sejak build selesai. Kalau link sudah expired, build ulang dengan `eas build --platform android --profile preview`.
+
+## 🍬 Coba Online via Expo Snack
+
+Ingin coba tanpa clone/install project? Buka versi interaktifnya langsung di browser:
+
+**[▶️ Buka di Expo Snack](https://snack.expo.dev/@misyesinaga/nativepowerapp_p14)**
+
+> ⚠️ Fitur kamera & GPS memerlukan akses hardware asli — buka Snack ini di HP dan scan QR-nya lewat aplikasi **Expo Go** agar fitur native berfungsi penuh. Preview langsung di browser desktop hanya menampilkan UI-nya saja.
 
 ## 🚀 Menjalankan Project (Development)
 
@@ -86,6 +102,8 @@ Status build **Finished**, profile `preview`, versi `1.0.0 (1)`:
 - **Repository:** https://github.com/misyesinaga1-alt/NativePowerApp-P14
 - **Download APK:** https://expo.dev/accounts/misyesinaga/projects/NativePowerApp/builds/db195376-768a-4188-89ca-b87ed2457fdb
 - **EAS Build Dashboard:** https://expo.dev/accounts/misyesinaga/projects/NativePowerApp/builds/db195376-768a-4188-89ca-b87ed2457fdb
+- **Expo Snack (coba online):** https://snack.expo.dev/@misyesinaga/nativepowerapp_p14
+- **Expo Snack (coba online):** https://snack.expo.dev/@misyesinaga/nativepowerapp_p14
 
 ## 👤 Author
 
